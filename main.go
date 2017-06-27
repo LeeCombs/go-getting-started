@@ -1,6 +1,7 @@
 package main
 
 import (
+    "fmt"
     "bytes"
 	"log"
 	"net/http"
